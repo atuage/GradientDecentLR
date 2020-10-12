@@ -1,2 +1,3 @@
 # GradientDecentLR
-Multiple Linear Regression with Gradient Decent method
+最急降下法(GradientDecent)を使った重回帰を実装してみました。一番近い局所最適解を見つけてくれます。numpyの要素を1つ1つ取り出してループ処理してるので動作は非常に遅いです。  
+せっかく作ったのでここに供養。
